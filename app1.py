@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 #import plotly.express as px
-import feedparser
+#import feedparser
 from Bio import Entrez
 
 # -----------------------------
