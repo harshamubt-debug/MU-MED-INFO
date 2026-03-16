@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 import requests
-import plotly.express as px
+#import plotly.express as px
 import feedparser
 from Bio import Entrez
-import plotly.express as px
+
 # -----------------------------
 # PAGE SETTINGS
 # -----------------------------
