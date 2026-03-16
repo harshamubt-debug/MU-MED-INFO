@@ -1,9 +1,4 @@
-streamlit
-pandas
-requests
-plotly
-feedparser
-biopython
+
 streamlit
 requests
 pandas
