@@ -2,5 +2,6 @@ streamlit
 pandas
 requests
 plotly
+feedparser
 biopython
 
