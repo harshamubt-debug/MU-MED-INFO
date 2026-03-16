@@ -4,3 +4,8 @@ requests
 plotly
 feedparser
 biopython
+streamlit
+requests
+pandas
+plotly
+biopython
